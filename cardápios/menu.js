@@ -64,7 +64,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╎
 ╎𖢼⩺ ${prefix}Play (NOME) 
 ╎𖢼⩺ ${prefix}Playmp4 (NOME) 
-╎𖢼⩺ ${prefix}Ytsearch (NOME) 
+╎𖢼⩺ ${prefix}removido pelo dono
 ╎𖢼⩺ ${prefix}Ytmp4 (LINK) 
 ╎𖢼⩺ ${prefix}Ytmp3 (LINK) 
 ╎𖢼⩺ ${prefix}Tiktok (LINK) 
